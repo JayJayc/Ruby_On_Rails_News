@@ -46,4 +46,3 @@ group :development do
   gem 'spring', '~> 1.7', '>= 1.7.2'
 
 end
-ruby "2.3.7"
